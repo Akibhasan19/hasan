@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+#menu{
+    border-radius: 5px;
+    background-image: linear-gradient(to right,  #6db9ef, #7ce08a);
+}
+.navbar-nav{
+    text-align: right;
+    padding-right: 15px;
+    outline: none;
+}
+.logo{
+    width: 120px;
+}
+#mack p{
+text-align: justify;
+color: #000;
+background: linear-gradient(to right,  #6db9ef, #7ce08a);
+padding: 10px 20px;
+border-radius: 5px;
+font-size: 20px;
+line-height: 40px;
+}
+.row{
+    flex-wrap: nowrap;
+}
+.dot{
+    width: 40px;
+    height: 10px;
+    background: orange;
+    border-radius: 5px;
+    text-align: center;
+
+}
+.phone{
+    padding-bottom: 20px;
+}
+.phone h2{
+    font-weight: bold;
+    color: teal;
+}
+.see{
+    color: orangered;
+}
+#card{
+    border-bottom: 5px solid rgba(10, 143, 110, 0.609);
+    border-radius: 5px;
+}
+.card-body{
+    text-align: center;
+}
+.card-title{
+    color: teal;
+    font-weight: bold;
+}
+.price{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(5, 47, 47);
+}
+.cat{
+    font-weight: bold;
+    text-align: center;
+    color: teal;
+}
+.line{
+    width: 100px;
+    height: 8px;
+    background: orange;
+    border-radius: 5px;
+    text-align: center;
+   margin-bottom: 80px;
+
+}
+.pales{
+    width: 450px;
+    margin-left: 10px;
+}
+#bag{
+   margin-right: -200px;
+   box-shadow: 0 2px 40px 0 rgba(110, 130, 208, .18);
+   border-radius: 10px;
+   margin-left: 20px;
+}
+#div{
+    box-shadow: 0 2px 40px 0 rgba(110, 130, 208, .18);
+    margin-left: 130px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+#div img{
+    padding: 0px 20px;
+}
